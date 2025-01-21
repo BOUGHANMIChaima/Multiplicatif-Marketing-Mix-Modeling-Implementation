@@ -1,1 +1,1 @@
-# Multiplicatif-Marketing-Mix-Modeling-Implementation
+# Multiplicatif-Marketing-Mix-Modeling-Implementation with PySTAN
