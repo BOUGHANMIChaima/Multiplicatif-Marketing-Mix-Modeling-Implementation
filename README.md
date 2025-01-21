@@ -14,6 +14,7 @@ Marketing Mix Model, or Media Mix Model (MMM) is used by advertisers to measure 
 Offline channel's influence is hard to track. E.g., a customer saw a TV ad, and made a purchase at store.
 Media channels' influences are intertwined.
 
+
 # 1.1 Multiplicative MMM
 # 1.2 AdStock
 # 1.3 Dminishing Return
