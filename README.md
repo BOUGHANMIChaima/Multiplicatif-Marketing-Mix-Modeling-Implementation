@@ -1,6 +1,6 @@
 # Multiplicatif-Marketing-Mix-Modeling-Implementation with PySTAN  
-Adapted from (sibylhe code)[https://github.com/sibylhe/mmm_stan?tab=readme-ov-file] based on this (paper). 
-[https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf].  
+Adapted from [sibylhe code](https://github.com/sibylhe/mmm_stan?tab=readme-ov-file) based on this [paper]. 
+(https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf).  
 
 # 1. Introduction
 Marketing Mix Model, or Media Mix Model (MMM) is used by advertisers to measure how their media spending contributes to sales, so as to optimize future budget allocation. ROAS (return on ad spend) and mROAS (marginal ROAS) are the key metrics to look at. High ROAS indicates the channel is efficient, high mROAS means increasing spend in the channel will yield a high return based on current spending level.
