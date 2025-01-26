@@ -78,7 +78,7 @@ red line: mean, green line: median
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph_3.jpg)  <br/>
 #### Decompose sales to media channels' contribution
 Each media channel's contribution = total sales - sales upon removal of the channel
-In the previous model fitting step, parameters of the log-log model have been found:
+In the previous model fitting step, parameters of the log-log model have been found: <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq_7.jpg)  <br/>
 Plug them into the multiplicative model: <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq8.jpg)  <br/>
