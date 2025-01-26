@@ -41,8 +41,25 @@ The larger the decay, the more scattered the effect.  <br/>
 ## 1.3 Dminishing Return
 After a certain saturation point, increasing spend will yield diminishing marginal return, the channel will be losing efficiency as you keep overspending on it. The diminishing return is modeled by Hill function: <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq5.jpg) <br/>
+#### Hill function with varying K and S 
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph2.jpg) <br/>
+
 ## 2.  Model Specification & Implementation
 ### Data
+Four years' (209 weeks) records of sales, media impression and media spending at weekly level.
+
+### 1. Media Variables
+
+Media Impression (prefix='mdip_'): impressions of 13 media channels: direct mail, insert, newspaper, digital audio, radio, TV, digital video, social media, online display, email, SMS, affiliates, SEM.
+Media Spending (prefix='mdsp_'): spending of media channels.
+### 2. Control Variables
+
+Macro Economy (prefix='me_'): CPI, gas price.
+Markdown (prefix='mrkdn_'): markdown/discount.
+Store Count ('st_ct')
+Retail Holidays (prefix='hldy_'): one-hot encoded.
+Seasonality (prefix='seas_'): month, with Nov and Dec further broken into to weeks. One-hot encoded.
+### 3. Sales Variable ('sales')
 ## 2.1 Control Model
 ## 2.2 Marketing Mix Model
 ## 2.3 Diminishing Return
