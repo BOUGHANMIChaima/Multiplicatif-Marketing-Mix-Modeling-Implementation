@@ -34,6 +34,9 @@ L: length of the media effect <br/>
 P: peak/delay of the media effect, how many weeks it's lagging behind first exposure <br/>
 D: decay/retention rate of the media channel, concentration of the effect <br/>
 The media effect of current weeks is a weighted average of current week and previous (L− 1) weeks. <br/>
+#### Adstock with Varying Decay
+The larger the decay, the more scattered the effect.  <br/>
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph_1.jpg) <br/>
 
 ## 1.3 Dminishing Return
 ## 2.  Model Specification & Implementation
