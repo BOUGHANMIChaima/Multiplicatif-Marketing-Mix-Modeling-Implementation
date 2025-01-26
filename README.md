@@ -67,7 +67,8 @@ Marketing Mix Model <br/>
 Diminishing Return Model <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/model_.jpg)
 ## 2.1 Control Model / Base sales Model
-Goal: predict base sales (X_ctrl) as an input variable to MMM, this represents the baseline sales trend without any marketing activities.
+Goal: <br/>
+predict base sales (X_ctrl) as an input variable to MMM, this represents the baseline sales trend without any marketing activities.
 ## 2.2 Marketing Mix Model
 Goal: <br/>
 Find appropriate adstock parameters for media channels; <br/>
