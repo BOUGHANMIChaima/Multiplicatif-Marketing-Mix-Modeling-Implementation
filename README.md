@@ -82,4 +82,8 @@ In the previous model fitting step, parameters of the log-log model have been fo
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq_7.jpg)  <br/>
 Plug them into the multiplicative model: <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq8.jpg)  <br/>
+RMSE (log-log model): 0.04977
+MAPE (multiplicative model): 15.71%
 ## 2.3 Diminishing Return
+Goal: for each channel, find the relationship (fit a Hill function) between spending and contribution, so that ROAS and marginal ROAS can be calculated.  <br/>
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq9.jpg)  <br/>
