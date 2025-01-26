@@ -60,6 +60,17 @@ Store Count ('st_ct')
 Retail Holidays (prefix='hldy_'): one-hot encoded.
 Seasonality (prefix='seas_'): month, with Nov and Dec further broken into to weeks. One-hot encoded.
 ### 3. Sales Variable ('sales')
-## 2.1 Control Model
+### Model Architecture
+The model is built in a stacked way. Three models are trained: <br/>
+Control Model <br/>
+Marketing Mix Model <br/>
+Diminishing Return Model <br/>
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/model_.jpg)
+## 2.1 Control Model / Base sales Model
+Goal: predict base sales (X_ctrl) as an input variable to MMM, this represents the baseline sales trend without any marketing activities.
 ## 2.2 Marketing Mix Model
+Goal: <br/>
+Find appropriate adstock parameters for media channels; <br/>
+Decompose sales to media channels' contribution (and non-marketing contribution). <br/>
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq6.jpg)
 ## 2.3 Diminishing Return
