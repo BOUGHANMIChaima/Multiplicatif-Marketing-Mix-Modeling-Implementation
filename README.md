@@ -87,3 +87,13 @@ MAPE (multiplicative model): 15.71%
 ## 2.3 Diminishing Return
 Goal: for each channel, find the relationship (fit a Hill function) between spending and contribution, so that ROAS and marginal ROAS can be calculated.  <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq9.jpg)  <br/>
+### Calculate overall ROAS and weekly ROAS
+Overall ROAS = total media contribution / total media spending <br/>
+Weekly ROAS = weekly media contribution / weekly media spending <br/>
+## 3. Results & Marketing Budget Optimization
+### Media Channel Contribution
+80% sales are contributed by non-marketing factors, marketing channels contributed 20% sales.
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph4.jpg)
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph5.jpg)
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph6.jpg)
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph7.jpg)
