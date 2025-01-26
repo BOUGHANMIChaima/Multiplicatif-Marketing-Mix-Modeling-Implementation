@@ -17,6 +17,8 @@ Marketing Mix Model, or Media Mix Model (MMM) is used by advertisers to measure 
 ![Customer journey](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/customer.png)
 
 ## 1.1 Multiplicative MMM
+Since media channels work interactively, a multiplicative model structure is adopted:
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/es_1.jpg)
 ## 1.2 AdStock
 ## 1.3 Dminishing Return
 ## 2.  Model Specification & Implementation
