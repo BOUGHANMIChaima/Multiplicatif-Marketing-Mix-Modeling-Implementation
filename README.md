@@ -39,6 +39,8 @@ The larger the decay, the more scattered the effect.  <br/>
 ![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/graph_1.jpg) <br/>
 
 ## 1.3 Dminishing Return
+After a certain saturation point, increasing spend will yield diminishing marginal return, the channel will be losing efficiency as you keep overspending on it. The diminishing return is modeled by Hill function: <br/>
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq5.jpg) <br/>
 ## 2.  Model Specification & Implementation
 ### Data
 ## 2.1 Control Model
