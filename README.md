@@ -28,6 +28,9 @@ Take log of both sides, we get the linear form (log-log model): <br/>  <br/>
 2. Control variables like discount, macro economy, event/retail holiday are expected to have positive impact on sales, their coefficients should also be positive. <br/>
 
 ## 1.2 AdStock
+Media effect on sales may lag behind the original exposure and extend several weeks. The carry-over effect is modeled by Adstock:  <br/>
+![](https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation/blob/main/eq3.jpg)  <br/> <br/>
+
 ## 1.3 Dminishing Return
 ## 2.  Model Specification & Implementation
 ### Data
